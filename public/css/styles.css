@@ -5,3 +5,27 @@
     height: 800px;
   }
 }
+
+#contenedor {
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+#cartas {
+  gap: 2rem;
+}
+
+.giantCard {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.circleSection {
+  background-color: #212529;
+  height: 500px;
+}
+
+.restaurantText {
+  color: white;
+  font-size: 20px;
+}
