@@ -11,8 +11,8 @@
   margin-top: 2rem;
 }
 
-#cartas {
-  gap: 2rem;
+.card {
+  border: 1px solid black;
 }
 
 .giantCard {
@@ -22,10 +22,41 @@
 
 .circleSection {
   background-color: #212529;
-  height: 500px;
+  height: 370px;
 }
 
 .restaurantText {
   color: white;
   font-size: 20px;
+}
+
+.btn {
+  margin-left: 110px;
+}
+
+.rounded-circle {
+  width: 150px;
+}
+
+.brand {
+  font-size: 30px;
+}
+
+.pCircle {
+  color: white;
+}
+
+footer {
+  background-color: white !important;
+  color: black !important;
+}
+
+hr {
+  color: black !important;
+  margin-left: 20px !important;
+  margin-right: 20px !important;
+}
+
+.asideCard {
+  color: white !important;
 }
